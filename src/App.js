@@ -1,23 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import { Table, Container } from "react-bootstrap";
+
+import "./App.scss";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App pt-5">
+      <Container>
+        <Table striped bordered hover variant="dark">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Name project</th>
+              <th>REPO link</th>
+              <th>GHP link</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1</td>
+              <td>hotel-training</td>
+              <td><a href="https://github.com/steeksg/hotel-training">REPO</a></td>
+              <td>@mdo</td>
+            </tr>
+          </tbody>
+        </Table>
+      </Container>
     </div>
   );
 }
