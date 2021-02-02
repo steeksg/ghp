@@ -26,7 +26,7 @@ function App() {
               <td>
                 <a href="https://steeksg.github.io/hotel-training">GHP</a>
               </td>
-              <td><a href="https://github.com/steeksg/ghp/tree/master/src/task/hotel/hotel-training-task.pdf">Figma mockup</a></td>
+              <td><a href="https://github.com/steeksg/ghp/blob/master/src/tasks/hotel/hotel-training-task.pdf">Figma mockup</a></td>
             </tr>
           </tbody>
         </Table>
