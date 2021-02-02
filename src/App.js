@@ -19,8 +19,12 @@ function App() {
             <tr>
               <td>1</td>
               <td>hotel-training</td>
-              <td><a href="https://github.com/steeksg/hotel-training">REPO</a></td>
-              <td>@mdo</td>
+              <td>
+                <a href="https://github.com/steeksg/hotel-training">REPO</a>
+              </td>
+              <td>
+                <a href="https://steeksg.github.io/hotel-training">GHP</a>
+              </td>
             </tr>
           </tbody>
         </Table>
