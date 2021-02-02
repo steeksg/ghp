@@ -10,9 +10,10 @@ function App() {
           <thead>
             <tr>
               <th>#</th>
-              <th>Name project</th>
+              <th>Name training project</th>
               <th>REPO link</th>
               <th>GHP link</th>
+              <th>Task</th>
             </tr>
           </thead>
           <tbody>
@@ -25,6 +26,7 @@ function App() {
               <td>
                 <a href="https://steeksg.github.io/hotel-training">GHP</a>
               </td>
+              <td><a href="https://github.com/steeksg/ghp/tree/master/src/task/hotel/hotel-training-task.pdf">Figma mockup</a></td>
             </tr>
           </tbody>
         </Table>
