@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ghp-main/static/css/main.1f2b77ad.chunk.css",
+    "main.js": "/ghp-main/static/js/main.aea7fd78.chunk.js",
+    "main.js.map": "/ghp-main/static/js/main.aea7fd78.chunk.js.map",
+    "runtime-main.js": "/ghp-main/static/js/runtime-main.f62bc380.js",
+    "runtime-main.js.map": "/ghp-main/static/js/runtime-main.f62bc380.js.map",
+    "static/js/2.98a15185.chunk.js": "/ghp-main/static/js/2.98a15185.chunk.js",
+    "static/js/2.98a15185.chunk.js.map": "/ghp-main/static/js/2.98a15185.chunk.js.map",
+    "index.html": "/ghp-main/index.html",
+    "static/css/main.1f2b77ad.chunk.css.map": "/ghp-main/static/css/main.1f2b77ad.chunk.css.map",
+    "static/js/2.98a15185.chunk.js.LICENSE.txt": "/ghp-main/static/js/2.98a15185.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/ghp-main/static/media/github.5eab40a0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f62bc380.js",
+    "static/js/2.98a15185.chunk.js",
+    "static/css/main.1f2b77ad.chunk.css",
+    "static/js/main.aea7fd78.chunk.js"
+  ]
+}
