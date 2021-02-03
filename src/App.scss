@@ -19,6 +19,12 @@
   }
 }
 
-a, a:hover {
+a {
   color: #fff;
+  text-decoration: underline;
+
+  &:hover {
+    color: rgb(173, 174, 223);
+    text-decoration: underline;
+  }
 }
