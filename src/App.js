@@ -26,6 +26,16 @@ function App() {
               </td>
               <td><a href="https://github.com/steeksg/ghp/blob/master/src/tasks/hotel/hotel-training-task.pdf">Figma mockup</a></td>
             </tr>
+            <tr>
+              <td>cadex-test</td>
+              <td>
+                <a href="https://github.com/steeksg/cadex-test">REPO</a>
+              </td>
+              <td>
+                <a href="https://cadex-test.herokuapp.com/">Heroku</a>
+              </td>
+              <td><a href="https://github.com/steeksg/ghp/blob/master/src/tasks/cadex/cadex-test.pdf">Figma mockup</a></td>
+            </tr>
           </tbody>
         </Table>
       </Container>
