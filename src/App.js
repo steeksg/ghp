@@ -6,19 +6,17 @@ function App() {
   return (
     <div className="App pt-5">
       <Container>
-        <Table striped bordered hover variant="dark">
+        <Table responsive striped bordered hover variant="dark">
           <thead>
             <tr>
-              <th>#</th>
-              <th>Name training project</th>
-              <th>REPO link</th>
-              <th>GHP link</th>
-              <th>Task</th>
+              <th className="w-25">Name training project</th>
+              <th className="w-25">Repo link</th>
+              <th className="w-25">View link</th>
+              <th className="w-25">Task link</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td>1</td>
               <td>hotel-training</td>
               <td>
                 <a href="https://github.com/steeksg/hotel-training">REPO</a>
