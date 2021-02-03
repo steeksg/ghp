@@ -17,7 +17,7 @@ function App() {
           </thead>
           <tbody>
             <tr>
-              <td>hotel-training</td>
+              <td>React, SCSS, Bootstrap</td>
               <td>
                 <a href="https://github.com/steeksg/hotel-training">
                   hotel-training
@@ -35,7 +35,7 @@ function App() {
               </td>
             </tr>
             <tr>
-              <td>cadex-test</td>
+              <td>React, SCSS, Bootstrap, Node, Three</td>
               <td>
                 <a href="https://github.com/steeksg/cadex-test">cadex-test</a>
               </td>
